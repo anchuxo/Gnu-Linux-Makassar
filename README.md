@@ -1,4 +1,4 @@
-# Gnu-Linux-Makassar
+# Lisence Gnu-Linux-Makassar
 
 Logo grup Telegram GNU/Linux Makassar dimodifikasi dari mengadopsi logo "Root" grup BGLI Indonesia dan dua berkas gambar yaitu: 
 1. Peta Indonesia*
