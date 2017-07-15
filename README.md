@@ -1,5 +1,7 @@
 # Lisence Gnu-Linux-Makassar
 
+GNU/Linux Makassar Berdiri Pada Tanggal 16 Mey 2017
+
 Logo grup Telegram GNU/Linux Makassar dimodifikasi dari mengadopsi logo "Root" grup BGLI Indonesia dan dua berkas gambar yaitu: 
 1. Peta Indonesia*
 Sumber gambar: freevectormaps.com/indonesia/ID-EPS-02-3001
