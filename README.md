@@ -1,4 +1,4 @@
-# Lisence Gnu-Linux-Makassar
+# Lisence GNU-Linux-Makassar
 
 GNU/Linux Makassar Berdiri Pada Tanggal 16 Mey 2017
 
